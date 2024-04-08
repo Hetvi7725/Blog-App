@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  display:flex;
+  width:800px; 
+  height:435px ;
+  border-radius: 20px;
+   background-color: #dcdee2;
+}
+.formdata{
+  position: absolute;
+  background-color: #b0b1b5b8;
+  width: 500px;
+  height: 550px;
+  top: 10%;
+  left: 35%;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.formdata table tr td , .formdata1 table tr td{
+  font-size: 18px;
+}
+.formdata input , .formdata1 input{
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.btn1{
+  background-color: black;
+  color:white;
+  font-size: 20px;
+}
+
+.onbtn{
+  background-color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
